@@ -1,0 +1,21 @@
+/* Tambahkan break-point max-width 100px; */
+    @media (max-width: 1000px;) {
+/* Tambahkan css untuk Lessons*/
+        .lesson {
+            width: 50%;
+            margin-bottom: 50px;
+        }
+    }
+/* Buat HP */
+@media (max-width: 670px) {
+    .lesson {
+        width: 100%;
+    }
+    .footer {
+        text-align: center;
+    }
+
+    .btn {
+        width: 100%;
+    }
+}
